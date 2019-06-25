@@ -1,0 +1,17 @@
+.mint-tab-item-label{
+	font-size: 14px;
+}
+.mint-tab-item{
+	border-bottom: 3px solid #fff;
+}
+.mint-navbar .mint-tab-item.is-selected {
+    border-bottom: 3px solid #d4237a;
+    color: #d4237a;
+    margin-bottom: -3px;
+}
+.mint-msgbox{
+	width: 296px;
+}
+.mint-msgbox-confirm{
+	color: #777;
+}

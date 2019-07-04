@@ -17,7 +17,7 @@
 - 搜索页面
 # 运行
 * 安装：npm install
-* 加载项目：npm run dev
+* 运行项目：npm run dev
 * 监听8080端口
 
 # 示例页面

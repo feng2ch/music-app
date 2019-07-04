@@ -8,12 +8,13 @@
 # 功能展示  
 ## 音乐app
 - 推荐页面
-- 电台
 - 热门歌单
 - 推荐歌单
+- 播放页面
 - 排行榜
 - 歌手
-- 播放页面
+- 电台
+- 搜索页面
 # 运行
 * 安装：npm install
 * 加载项目：npm run dev
@@ -49,6 +50,4 @@
 
 ### 播放页面
 ![](https://github.com/feng2ch/music-app/blob/master/src/assets/img/bh16.PNG)  
-
-
 
